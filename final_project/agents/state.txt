@@ -1,0 +1,13 @@
+{'street': 'preflop', 
+'pot': {'main': {'amount': 15}, 'side': []},
+ 'community_card': [], 
+ 'dealer_btn': 0, 
+ 'next_player': 1, 'small_blind_pos': 1, 
+ 'big_blind_pos': 0, 'round_count': 1, 'small_blind_amount': 5, 
+
+ 'seats': [{'name': 'p1', 'uuid': 'uzyxqfllsphtblxpclgxgv', 'stack': 990, 'state': 'participating'}, 
+ {'name': 'p2', 'uuid': 'tjgzmjdmavkvljzwmalpzp', 'stack': 995, 'state': 'participating'}], 
+ 
+ 'action_histories': {'preflop': [{'action': 'SMALLBLIND', 'amount': 5, 'add_amount': 5, 
+ 'uuid': 'tjgzmjdmavkvljzwmalpzp'}, {'action': 'BIGBLIND', 'amount': 10, 'add_amount': 5, 
+ 'uuid': 'uzyxqfllsphtblxpclgxgv'}]}}
